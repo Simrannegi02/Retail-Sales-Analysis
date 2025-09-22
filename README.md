@@ -8,7 +8,7 @@ It covers customer, product, and order data, with **pivot tables** and an **inte
 ## 📂 Dataset
 The dataset used in this project is available here:  
 [👉 Download Dataset]
-- <a href="https://github.com/Simrannegi02/Retail-Sales-Analysis/blob/a7f47acb66bd19310f85a15c3a573eade872d468/Retail%20sales%20final%20project.xlsx">
+ Dataset view - <a href="https://github.com/Simrannegi02/Retail-Sales-Analysis/blob/a7f47acb66bd19310f85a15c3a573eade872d468/Retail%20sales%20final%20project.xlsx">
 
 
 ---
